@@ -1,4 +1,5 @@
-##To Do app with GetX and sqflite
+## To Do app
+with GetX and sqflite
 It is an application for managing daily tasks
 #with many features such as repeating the task daily or weekly, and also has a beautiful and attractive design
 
